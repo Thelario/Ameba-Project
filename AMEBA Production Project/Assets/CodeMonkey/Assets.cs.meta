@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eda7ff5f6e8175c4da119ea9ed256f6d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - s_White: {instanceID: 0}
+  - s_Circle: {instanceID: 0}
+  - m_White: {instanceID: 0}
+  - lockedDefenseSprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
